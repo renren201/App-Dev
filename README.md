@@ -1,2 +1,9 @@
 # App-Dev
 My First Repository
+# MY FAVORITE MOVIE
+## ACTION
+
+** NETFLIX **
+1. IP-MAN
+2. KARATE KID
+3. RAMBO
